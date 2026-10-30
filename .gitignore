@@ -1,0 +1,12 @@
+# Word lock / temporary files
+~$*
+*.tmp
+
+# OS files
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
